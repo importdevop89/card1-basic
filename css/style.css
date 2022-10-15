@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap');
+* {
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+.main-card {
+    margin: 3rem 2rem;
+    border: 1.1px solid grey;
+    border-radius: 0.6rem;
+    padding: 0.8rem;
+    background-color: rgb(238, 234, 244);
+    max-width: 23%;
+}
+
+.head3 {
+    color: rgb(35, 108, 164);
+    font-weight: bold;
+}
+
+.card-1 {
+    display: flex;
+    height: 7.5rem;
+    border-radius: 0.5rem;
+    margin-bottom: 0.7rem;
+    background-color: white;
+}
+
+.sp1-image {
+    margin: auto;
+    padding-top: 0.5rem;
+    border: 1px solid grey;
+}
+
+.sp1-2-content {
+    border: 1px solid grey;
+    margin: auto;
+    line-height: 10%
+}
+
+.p-blue {
+    color: rgb(33, 185, 185);
+}
+
+.sp1-2-rightArrow {
+    float: right;
+    margin-left: 0.5rem;
+    background-color: rgb(90, 170, 236);
+    color: white;
+    text-align: center;
+    column-width: 2rem;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+
+.right-arrow {
+    text-align: center;
+}
